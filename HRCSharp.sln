@@ -9,7 +9,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{9182C92D-628F-4016-9492-29E20B9997F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToTutorialChallenges", "IntroToTutorialChallenges\IntroToTutorialChallenges.csproj", "{A696BA06-7960-481A-AA78-799BB990FE52}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToTutorialChallenges", "Algorithms\Sorting\IntroToTutorialChallenges\IntroToTutorialChallenges.csproj", "{A696BA06-7960-481A-AA78-799BB990FE52}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GraphTheory", "GraphTheory", "{B89D616F-5619-440B-B556-50FB629C5275}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadthFirstSearchShortestReach", "Algorithms\GraphTheory\BreadthFirstSearchShortestReach\BreadthFirstSearchShortestReach.csproj", "{BC3583CC-1E7C-4556-BA75-15F87E9D7AB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +29,10 @@ Global
 		{A696BA06-7960-481A-AA78-799BB990FE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A696BA06-7960-481A-AA78-799BB990FE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A696BA06-7960-481A-AA78-799BB990FE52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3583CC-1E7C-4556-BA75-15F87E9D7AB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3583CC-1E7C-4556-BA75-15F87E9D7AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3583CC-1E7C-4556-BA75-15F87E9D7AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3583CC-1E7C-4556-BA75-15F87E9D7AB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,5 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{9182C92D-628F-4016-9492-29E20B9997F8} = {A7A8CF38-DEEE-43B2-A319-BE020ABBE2C9}
 		{A696BA06-7960-481A-AA78-799BB990FE52} = {9182C92D-628F-4016-9492-29E20B9997F8}
+		{B89D616F-5619-440B-B556-50FB629C5275} = {A7A8CF38-DEEE-43B2-A319-BE020ABBE2C9}
+		{BC3583CC-1E7C-4556-BA75-15F87E9D7AB2} = {B89D616F-5619-440B-B556-50FB629C5275}
 	EndGlobalSection
 EndGlobal
