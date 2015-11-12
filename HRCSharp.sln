@@ -5,6 +5,12 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRCSharp", "HRCSharp\HRCSharp.csproj", "{06D4BD80-9A43-4236-BDCE-50C8ED7C8BE9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", "{A7A8CF38-DEEE-43B2-A319-BE020ABBE2C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{9182C92D-628F-4016-9492-29E20B9997F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToTutorialChallenges", "IntroToTutorialChallenges\IntroToTutorialChallenges.csproj", "{A696BA06-7960-481A-AA78-799BB990FE52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +21,16 @@ Global
 		{06D4BD80-9A43-4236-BDCE-50C8ED7C8BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06D4BD80-9A43-4236-BDCE-50C8ED7C8BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06D4BD80-9A43-4236-BDCE-50C8ED7C8BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A696BA06-7960-481A-AA78-799BB990FE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A696BA06-7960-481A-AA78-799BB990FE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A696BA06-7960-481A-AA78-799BB990FE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A696BA06-7960-481A-AA78-799BB990FE52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9182C92D-628F-4016-9492-29E20B9997F8} = {A7A8CF38-DEEE-43B2-A319-BE020ABBE2C9}
+		{A696BA06-7960-481A-AA78-799BB990FE52} = {9182C92D-628F-4016-9492-29E20B9997F8}
 	EndGlobalSection
 EndGlobal
