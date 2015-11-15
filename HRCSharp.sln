@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlternatingCharacters", "Al
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaumAndBday", "Algorithms\Implementation\TaumAndBday\TaumAndBday.csproj", "{3CD0FEFE-27F5-42CC-889C-71BC3E769946}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortPart2", "Algorithms\Sorting\InsertionSortPart2\InsertionSortPart2.csproj", "{37468B53-DCF9-4BF9-8744-FC715F2F8078}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,10 @@ Global
 		{3CD0FEFE-27F5-42CC-889C-71BC3E769946}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CD0FEFE-27F5-42CC-889C-71BC3E769946}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CD0FEFE-27F5-42CC-889C-71BC3E769946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37468B53-DCF9-4BF9-8744-FC715F2F8078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37468B53-DCF9-4BF9-8744-FC715F2F8078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37468B53-DCF9-4BF9-8744-FC715F2F8078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37468B53-DCF9-4BF9-8744-FC715F2F8078}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -97,5 +103,6 @@ Global
 		{75B39CA0-6D06-4FAB-9C77-3FEF170E2ECB} = {2244739F-B847-46E5-B35B-F987879B4312}
 		{19340C7D-3B01-492F-BF7B-178BA3551F58} = {ABF64B6F-2569-4009-B44C-6C1DA2F87B7E}
 		{3CD0FEFE-27F5-42CC-889C-71BC3E769946} = {2244739F-B847-46E5-B35B-F987879B4312}
+		{37468B53-DCF9-4BF9-8744-FC715F2F8078} = {9182C92D-628F-4016-9492-29E20B9997F8}
 	EndGlobalSection
 EndGlobal
