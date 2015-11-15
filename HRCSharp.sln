@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortPart2", "Algor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CavityMap", "Algorithms\Implementation\CavityMap\CavityMap.csproj", "{6B8743F7-33F9-422E-9F2C-6BFC8813CA5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLane", "Algorithms\Implementation\ServiceLane\ServiceLane.csproj", "{3C8F67ED-0EB7-409A-AD62-5876FD132732}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,10 @@ Global
 		{6B8743F7-33F9-422E-9F2C-6BFC8813CA5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B8743F7-33F9-422E-9F2C-6BFC8813CA5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B8743F7-33F9-422E-9F2C-6BFC8813CA5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C8F67ED-0EB7-409A-AD62-5876FD132732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C8F67ED-0EB7-409A-AD62-5876FD132732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C8F67ED-0EB7-409A-AD62-5876FD132732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C8F67ED-0EB7-409A-AD62-5876FD132732}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -111,5 +117,6 @@ Global
 		{3CD0FEFE-27F5-42CC-889C-71BC3E769946} = {2244739F-B847-46E5-B35B-F987879B4312}
 		{37468B53-DCF9-4BF9-8744-FC715F2F8078} = {9182C92D-628F-4016-9492-29E20B9997F8}
 		{6B8743F7-33F9-422E-9F2C-6BFC8813CA5F} = {2244739F-B847-46E5-B35B-F987879B4312}
+		{3C8F67ED-0EB7-409A-AD62-5876FD132732} = {2244739F-B847-46E5-B35B-F987879B4312}
 	EndGlobalSection
 EndGlobal
