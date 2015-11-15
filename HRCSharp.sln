@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoArrays", "Algorithms\Gre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkAndToys", "Algorithms\Greedy\MarkAndToys\MarkAndToys.csproj", "{74B70AFA-0CB1-4773-96BA-67F3F01F33C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocolateFeast", "Algorithms\Implementation\ChocolateFeast\ChocolateFeast.csproj", "{C37E94B8-459D-46B2-822C-2D08DDE1DE7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{74B70AFA-0CB1-4773-96BA-67F3F01F33C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74B70AFA-0CB1-4773-96BA-67F3F01F33C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74B70AFA-0CB1-4773-96BA-67F3F01F33C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37E94B8-459D-46B2-822C-2D08DDE1DE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37E94B8-459D-46B2-822C-2D08DDE1DE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37E94B8-459D-46B2-822C-2D08DDE1DE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37E94B8-459D-46B2-822C-2D08DDE1DE7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -135,5 +141,6 @@ Global
 		{9F73E7C1-6B33-427C-80F2-387A14323DA8} = {A7A8CF38-DEEE-43B2-A319-BE020ABBE2C9}
 		{9EA594A0-C045-4539-99EE-7BD797298D10} = {9F73E7C1-6B33-427C-80F2-387A14323DA8}
 		{74B70AFA-0CB1-4773-96BA-67F3F01F33C8} = {9F73E7C1-6B33-427C-80F2-387A14323DA8}
+		{C37E94B8-459D-46B2-822C-2D08DDE1DE7B} = {2244739F-B847-46E5-B35B-F987879B4312}
 	EndGlobalSection
 EndGlobal
