@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMaximumSubarray", "Algor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMin", "Algorithms\Greedy\MaxMin\MaxMin.csproj", "{158F19A8-F62B-4FF1-A44A-A462FFBFF083}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosestNumbers", "Algorithms\Sorting\ClosestNumbers\ClosestNumbers.csproj", "{839A66FE-D4D0-438D-A713-692FDE52233E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -155,6 +157,10 @@ Global
 		{158F19A8-F62B-4FF1-A44A-A462FFBFF083}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{158F19A8-F62B-4FF1-A44A-A462FFBFF083}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{158F19A8-F62B-4FF1-A44A-A462FFBFF083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{839A66FE-D4D0-438D-A713-692FDE52233E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839A66FE-D4D0-438D-A713-692FDE52233E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839A66FE-D4D0-438D-A713-692FDE52233E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839A66FE-D4D0-438D-A713-692FDE52233E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -187,5 +193,6 @@ Global
 		{EC4BA1BC-0B8D-4F6F-B801-96CA36519394} = {A7A8CF38-DEEE-43B2-A319-BE020ABBE2C9}
 		{119675D3-0D80-4636-87A1-7236F82B6C88} = {EC4BA1BC-0B8D-4F6F-B801-96CA36519394}
 		{158F19A8-F62B-4FF1-A44A-A462FFBFF083} = {9F73E7C1-6B33-427C-80F2-387A14323DA8}
+		{839A66FE-D4D0-438D-A713-692FDE52233E} = {9182C92D-628F-4016-9492-29E20B9997F8}
 	EndGlobalSection
 EndGlobal
