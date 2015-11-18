@@ -63,7 +63,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMin", "Algorithms\Greedy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosestNumbers", "Algorithms\Sorting\ClosestNumbers\ClosestNumbers.csproj", "{839A66FE-D4D0-438D-A713-692FDE52233E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CutTheSticks", "CutTheSticks\CutTheSticks.csproj", "{C3E32DF8-EC1B-43A6-B831-B43EF18AE13B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CutTheSticks", "Algorithms\Implementation\CutTheSticks\CutTheSticks.csproj", "{C3E32DF8-EC1B-43A6-B831-B43EF18AE13B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagram", "Algorithms\Implementation\Anagram\Anagram.csproj", "{7809ACF8-D97E-44F7-8833-D857A78F6D6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -167,6 +169,10 @@ Global
 		{C3E32DF8-EC1B-43A6-B831-B43EF18AE13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3E32DF8-EC1B-43A6-B831-B43EF18AE13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3E32DF8-EC1B-43A6-B831-B43EF18AE13B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7809ACF8-D97E-44F7-8833-D857A78F6D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7809ACF8-D97E-44F7-8833-D857A78F6D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7809ACF8-D97E-44F7-8833-D857A78F6D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7809ACF8-D97E-44F7-8833-D857A78F6D6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -201,5 +207,6 @@ Global
 		{158F19A8-F62B-4FF1-A44A-A462FFBFF083} = {9F73E7C1-6B33-427C-80F2-387A14323DA8}
 		{839A66FE-D4D0-438D-A713-692FDE52233E} = {9182C92D-628F-4016-9492-29E20B9997F8}
 		{C3E32DF8-EC1B-43A6-B831-B43EF18AE13B} = {2244739F-B847-46E5-B35B-F987879B4312}
+		{7809ACF8-D97E-44F7-8833-D857A78F6D6F} = {ABF64B6F-2569-4009-B44C-6C1DA2F87B7E}
 	EndGlobalSection
 EndGlobal
