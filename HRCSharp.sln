@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoStrings", "Algorithms\St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SherlockAndTheBeast", "Algorithms\Implementation\SherlockAndTheBeast\SherlockAndTheBeast.csproj", "{87FAF266-2504-48A0-AF76-E237DBBDF934}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher", "Algorithms\Implementation\CaesarCipher\CaesarCipher.csproj", "{679CA4FC-BF49-4316-B96B-44613AFB773D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -193,6 +195,10 @@ Global
 		{87FAF266-2504-48A0-AF76-E237DBBDF934}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87FAF266-2504-48A0-AF76-E237DBBDF934}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87FAF266-2504-48A0-AF76-E237DBBDF934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679CA4FC-BF49-4316-B96B-44613AFB773D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679CA4FC-BF49-4316-B96B-44613AFB773D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679CA4FC-BF49-4316-B96B-44613AFB773D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679CA4FC-BF49-4316-B96B-44613AFB773D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -232,5 +238,6 @@ Global
 		{D474CE45-1BA4-45BA-9D55-153A49D6073E} = {363E8960-47AB-4E2C-AC43-630AB4B2117C}
 		{9C54FCD7-0132-46BB-93AA-5DD74CF72C55} = {ABF64B6F-2569-4009-B44C-6C1DA2F87B7E}
 		{87FAF266-2504-48A0-AF76-E237DBBDF934} = {2244739F-B847-46E5-B35B-F987879B4312}
+		{679CA4FC-BF49-4316-B96B-44613AFB773D} = {2244739F-B847-46E5-B35B-F987879B4312}
 	EndGlobalSection
 EndGlobal
