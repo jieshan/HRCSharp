@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher", "Algorithms\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheGridSearch", "Algorithms\Implementation\TheGridSearch\TheGridSearch.csproj", "{8BD5A3E8-7E9C-462B-9FD1-8031A9B45787}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryFine", "Algorithms\Implementation\LibraryFine\LibraryFine.csproj", "{1CD3F5C4-4AD8-4226-B9B7-D6876CCD8275}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -205,6 +207,10 @@ Global
 		{8BD5A3E8-7E9C-462B-9FD1-8031A9B45787}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BD5A3E8-7E9C-462B-9FD1-8031A9B45787}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BD5A3E8-7E9C-462B-9FD1-8031A9B45787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CD3F5C4-4AD8-4226-B9B7-D6876CCD8275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD3F5C4-4AD8-4226-B9B7-D6876CCD8275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD3F5C4-4AD8-4226-B9B7-D6876CCD8275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD3F5C4-4AD8-4226-B9B7-D6876CCD8275}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -246,5 +252,6 @@ Global
 		{87FAF266-2504-48A0-AF76-E237DBBDF934} = {2244739F-B847-46E5-B35B-F987879B4312}
 		{679CA4FC-BF49-4316-B96B-44613AFB773D} = {2244739F-B847-46E5-B35B-F987879B4312}
 		{8BD5A3E8-7E9C-462B-9FD1-8031A9B45787} = {2244739F-B847-46E5-B35B-F987879B4312}
+		{1CD3F5C4-4AD8-4226-B9B7-D6876CCD8275} = {2244739F-B847-46E5-B35B-F987879B4312}
 	EndGlobalSection
 EndGlobal
