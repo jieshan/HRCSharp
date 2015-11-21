@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryFine", "Algorithms\I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACMICPCTeam", "Algorithms\Implementation\ACMICPCTeam\ACMICPCTeam.csproj", "{CDCBF7D6-C790-4AF8-B0F2-EB4E3A6627C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTimeInWords", "Algorithms\Implementation\TheTimeInWords\TheTimeInWords.csproj", "{3A45354E-136A-48EB-B53E-E5564B819371}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -217,6 +219,10 @@ Global
 		{CDCBF7D6-C790-4AF8-B0F2-EB4E3A6627C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDCBF7D6-C790-4AF8-B0F2-EB4E3A6627C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDCBF7D6-C790-4AF8-B0F2-EB4E3A6627C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A45354E-136A-48EB-B53E-E5564B819371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A45354E-136A-48EB-B53E-E5564B819371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A45354E-136A-48EB-B53E-E5564B819371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A45354E-136A-48EB-B53E-E5564B819371}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -260,5 +266,6 @@ Global
 		{8BD5A3E8-7E9C-462B-9FD1-8031A9B45787} = {2244739F-B847-46E5-B35B-F987879B4312}
 		{1CD3F5C4-4AD8-4226-B9B7-D6876CCD8275} = {2244739F-B847-46E5-B35B-F987879B4312}
 		{CDCBF7D6-C790-4AF8-B0F2-EB4E3A6627C4} = {2244739F-B847-46E5-B35B-F987879B4312}
+		{3A45354E-136A-48EB-B53E-E5564B819371} = {2244739F-B847-46E5-B35B-F987879B4312}
 	EndGlobalSection
 EndGlobal
