@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quicksort2Sorting", "Algori
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiggerIsGreater", "Algorithms\Sorting\BiggerIsGreater\BiggerIsGreater.csproj", "{6ED602FC-2757-47B5-AACD-57D2EFCE74B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuicksortInPlace", "Algorithms\Sorting\QuicksortInPlace\QuicksortInPlace.csproj", "{1A54721F-D9F8-4256-963C-65DD8239E8C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -265,6 +267,10 @@ Global
 		{6ED602FC-2757-47B5-AACD-57D2EFCE74B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ED602FC-2757-47B5-AACD-57D2EFCE74B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ED602FC-2757-47B5-AACD-57D2EFCE74B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A54721F-D9F8-4256-963C-65DD8239E8C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A54721F-D9F8-4256-963C-65DD8239E8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A54721F-D9F8-4256-963C-65DD8239E8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A54721F-D9F8-4256-963C-65DD8239E8C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -316,5 +322,6 @@ Global
 		{14B61C40-8F32-410C-9586-697F4AFB4014} = {ABF64B6F-2569-4009-B44C-6C1DA2F87B7E}
 		{37EE1225-7D92-4076-8B9D-86C8499B6E3B} = {9182C92D-628F-4016-9492-29E20B9997F8}
 		{6ED602FC-2757-47B5-AACD-57D2EFCE74B0} = {9182C92D-628F-4016-9492-29E20B9997F8}
+		{1A54721F-D9F8-4256-963C-65DD8239E8C6} = {9182C92D-628F-4016-9492-29E20B9997F8}
 	EndGlobalSection
 EndGlobal
