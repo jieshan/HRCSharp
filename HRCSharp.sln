@@ -117,6 +117,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximiseSum", "Algorithms\S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumbers", "Algorithms\Search\MissingNumbers\MissingNumbers.csproj", "{F93C4BE2-7A45-4CAE-BB28-F911783C3C9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountLuck", "Algorithms\Search\CountLuck\CountLuck.csproj", "{7235D808-83CD-436B-AD60-4E3953FCC2AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -319,6 +321,10 @@ Global
 		{F93C4BE2-7A45-4CAE-BB28-F911783C3C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F93C4BE2-7A45-4CAE-BB28-F911783C3C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F93C4BE2-7A45-4CAE-BB28-F911783C3C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7235D808-83CD-436B-AD60-4E3953FCC2AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7235D808-83CD-436B-AD60-4E3953FCC2AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7235D808-83CD-436B-AD60-4E3953FCC2AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7235D808-83CD-436B-AD60-4E3953FCC2AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -379,5 +385,6 @@ Global
 		{91185CE0-7C46-463A-BCA0-43392AC9E5B8} = {9182C92D-628F-4016-9492-29E20B9997F8}
 		{B0E3A314-C29C-4772-BCDC-E4D6A65502D5} = {363E8960-47AB-4E2C-AC43-630AB4B2117C}
 		{F93C4BE2-7A45-4CAE-BB28-F911783C3C9D} = {363E8960-47AB-4E2C-AC43-630AB4B2117C}
+		{7235D808-83CD-436B-AD60-4E3953FCC2AB} = {363E8960-47AB-4E2C-AC43-630AB4B2117C}
 	EndGlobalSection
 EndGlobal
