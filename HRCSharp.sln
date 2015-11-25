@@ -115,6 +115,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheMedian", "Algorithms
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximiseSum", "Algorithms\Search\MaximiseSum\MaximiseSum.csproj", "{B0E3A314-C29C-4772-BCDC-E4D6A65502D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumbers", "Algorithms\Search\MissingNumbers\MissingNumbers.csproj", "{F93C4BE2-7A45-4CAE-BB28-F911783C3C9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -313,6 +315,10 @@ Global
 		{B0E3A314-C29C-4772-BCDC-E4D6A65502D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0E3A314-C29C-4772-BCDC-E4D6A65502D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0E3A314-C29C-4772-BCDC-E4D6A65502D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93C4BE2-7A45-4CAE-BB28-F911783C3C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93C4BE2-7A45-4CAE-BB28-F911783C3C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93C4BE2-7A45-4CAE-BB28-F911783C3C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93C4BE2-7A45-4CAE-BB28-F911783C3C9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -372,5 +378,6 @@ Global
 		{E302083D-3D2F-4394-BABD-B85CBD3620F9} = {9182C92D-628F-4016-9492-29E20B9997F8}
 		{91185CE0-7C46-463A-BCA0-43392AC9E5B8} = {9182C92D-628F-4016-9492-29E20B9997F8}
 		{B0E3A314-C29C-4772-BCDC-E4D6A65502D5} = {363E8960-47AB-4E2C-AC43-630AB4B2117C}
+		{F93C4BE2-7A45-4CAE-BB28-F911783C3C9D} = {363E8960-47AB-4E2C-AC43-630AB4B2117C}
 	EndGlobalSection
 EndGlobal
