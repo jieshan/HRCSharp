@@ -131,6 +131,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BotBuilding", "BotBuilding"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotClean", "ArtificialIntelligence\BotBuilding\BotClean\BotClean.csproj", "{9DAD4C63-A056-47A9-B1D5-861E079B6A2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightsOut", "ArtificialIntelligence\BotBuilding\LightsOut\LightsOut.csproj", "{0EC06849-357C-4361-BA2D-B75C4A9B1B47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -353,6 +355,10 @@ Global
 		{9DAD4C63-A056-47A9-B1D5-861E079B6A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DAD4C63-A056-47A9-B1D5-861E079B6A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DAD4C63-A056-47A9-B1D5-861E079B6A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC06849-357C-4361-BA2D-B75C4A9B1B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC06849-357C-4361-BA2D-B75C4A9B1B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC06849-357C-4361-BA2D-B75C4A9B1B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC06849-357C-4361-BA2D-B75C4A9B1B47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -419,5 +425,6 @@ Global
 		{43D7C792-321F-49F7-A345-E02DA94E40FB} = {EC4BA1BC-0B8D-4F6F-B801-96CA36519394}
 		{4B6B2B03-0F73-4273-A92C-28F0136E9E69} = {52070B59-FC0B-4B9A-96B0-2D06816C1943}
 		{9DAD4C63-A056-47A9-B1D5-861E079B6A2F} = {4B6B2B03-0F73-4273-A92C-28F0136E9E69}
+		{0EC06849-357C-4361-BA2D-B75C4A9B1B47} = {4B6B2B03-0F73-4273-A92C-28F0136E9E69}
 	EndGlobalSection
 EndGlobal
