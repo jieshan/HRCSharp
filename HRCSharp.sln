@@ -123,6 +123,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CutTheTree", "Algorithms\Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JimAndTheOrders", "Algorithms\Greedy\JimAndTheOrders\JimAndTheOrders.csproj", "{AD361ACC-8847-4256-AFC5-3BC1300D41DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciModified", "Algorithms\DynamicProgramming\FibonacciModified\FibonacciModified.csproj", "{43D7C792-321F-49F7-A345-E02DA94E40FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -337,6 +339,10 @@ Global
 		{AD361ACC-8847-4256-AFC5-3BC1300D41DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD361ACC-8847-4256-AFC5-3BC1300D41DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD361ACC-8847-4256-AFC5-3BC1300D41DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D7C792-321F-49F7-A345-E02DA94E40FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D7C792-321F-49F7-A345-E02DA94E40FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D7C792-321F-49F7-A345-E02DA94E40FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D7C792-321F-49F7-A345-E02DA94E40FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -400,5 +406,6 @@ Global
 		{7235D808-83CD-436B-AD60-4E3953FCC2AB} = {363E8960-47AB-4E2C-AC43-630AB4B2117C}
 		{F01E38A0-D58A-416B-BA94-3DDF0461F787} = {363E8960-47AB-4E2C-AC43-630AB4B2117C}
 		{AD361ACC-8847-4256-AFC5-3BC1300D41DE} = {9F73E7C1-6B33-427C-80F2-387A14323DA8}
+		{43D7C792-321F-49F7-A345-E02DA94E40FB} = {EC4BA1BC-0B8D-4F6F-B801-96CA36519394}
 	EndGlobalSection
 EndGlobal
