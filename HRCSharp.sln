@@ -133,6 +133,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotClean", "ArtificialIntel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightsOut", "ArtificialIntelligence\BotBuilding\LightsOut\LightsOut.csproj", "{0EC06849-357C-4361-BA2D-B75C4A9B1B47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBiddingGame", "ArtificialIntelligence\Games\TheBiddingGame\TheBiddingGame.csproj", "{B613AE49-8B5D-4E5D-B946-01D3FFB59657}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -359,6 +361,10 @@ Global
 		{0EC06849-357C-4361-BA2D-B75C4A9B1B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EC06849-357C-4361-BA2D-B75C4A9B1B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EC06849-357C-4361-BA2D-B75C4A9B1B47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B613AE49-8B5D-4E5D-B946-01D3FFB59657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B613AE49-8B5D-4E5D-B946-01D3FFB59657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B613AE49-8B5D-4E5D-B946-01D3FFB59657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B613AE49-8B5D-4E5D-B946-01D3FFB59657}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -426,5 +432,6 @@ Global
 		{4B6B2B03-0F73-4273-A92C-28F0136E9E69} = {52070B59-FC0B-4B9A-96B0-2D06816C1943}
 		{9DAD4C63-A056-47A9-B1D5-861E079B6A2F} = {4B6B2B03-0F73-4273-A92C-28F0136E9E69}
 		{0EC06849-357C-4361-BA2D-B75C4A9B1B47} = {4B6B2B03-0F73-4273-A92C-28F0136E9E69}
+		{B613AE49-8B5D-4E5D-B946-01D3FFB59657} = {4B6B2B03-0F73-4273-A92C-28F0136E9E69}
 	EndGlobalSection
 EndGlobal
