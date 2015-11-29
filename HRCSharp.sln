@@ -143,6 +143,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicStatisticsWarmup", "Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeEscape", "ArtificialIntelligence\BotBuilding\MazeEscape\MazeEscape.csproj", "{CD368415-2ABA-4252-9A11-B4BC809DF2FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockPredictions", "ArtificialIntelligence\StatisticsAndMachineLearning\StockPredictions\StockPredictions.csproj", "{8E7271CE-2E58-4F1D-A1AA-7AA58310BB2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -381,6 +383,10 @@ Global
 		{CD368415-2ABA-4252-9A11-B4BC809DF2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD368415-2ABA-4252-9A11-B4BC809DF2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD368415-2ABA-4252-9A11-B4BC809DF2FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7271CE-2E58-4F1D-A1AA-7AA58310BB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7271CE-2E58-4F1D-A1AA-7AA58310BB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7271CE-2E58-4F1D-A1AA-7AA58310BB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7271CE-2E58-4F1D-A1AA-7AA58310BB2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -453,5 +459,6 @@ Global
 		{7A8C7B52-C04C-4C4A-BE0F-69BE0D7ECC77} = {52070B59-FC0B-4B9A-96B0-2D06816C1943}
 		{EB49ACC3-A9BC-42BA-912E-6F5B46B56C37} = {7A8C7B52-C04C-4C4A-BE0F-69BE0D7ECC77}
 		{CD368415-2ABA-4252-9A11-B4BC809DF2FA} = {4B6B2B03-0F73-4273-A92C-28F0136E9E69}
+		{8E7271CE-2E58-4F1D-A1AA-7AA58310BB2A} = {7A8C7B52-C04C-4C4A-BE0F-69BE0D7ECC77}
 	EndGlobalSection
 EndGlobal
